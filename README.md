@@ -2,7 +2,7 @@
 A bookmarklet that contains games and other bookmarklets
 
 How to use:
-1. Go to mrcoles.com/bookmarklets
+1. Go to mrcoles.com/bookmarklet
 2. paste in the bookmarklet
 3. generate
 4. click "this link"
